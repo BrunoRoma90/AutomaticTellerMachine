@@ -36,7 +36,7 @@ namespace FinalProjectAtm.Razor.Pages
             }
             else if (userChoice == "deposits")
             {
-                return RedirectToPage("/Transactions/Deposits");
+                return RedirectToPage("/Transactions/Deposit");
             }
             else if (userChoice == "paymentServices")
             {
