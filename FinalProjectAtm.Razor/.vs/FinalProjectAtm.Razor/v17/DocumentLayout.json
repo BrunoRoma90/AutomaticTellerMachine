@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\withdrawal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\withdrawal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\withdrawal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\withdrawal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\banktransfer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\banktransfer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\banktransfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\banktransfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Withdrawal.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T13:13:34.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Withdrawal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml.cs",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml.cs",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml.cs",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:55:32.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankTransfer.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T13:13:27.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankTransfer.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml.cs",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml.cs",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml.cs",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:16:11.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

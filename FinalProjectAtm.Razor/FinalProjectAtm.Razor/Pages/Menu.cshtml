@@ -1,0 +1,20 @@
+﻿@page
+@model FinalProjectAtm.Razor.Pages.MenuModel
+@{
+    ViewData["Title"] = "ATM Menu";
+}
+
+<div>
+    <h2>Choose an option</h2>
+    <div class="menuOptions">
+        <form method="post">
+            <button type="submit" name="userChoice" value="bankTransfer" class="transaction-button">Bank Transfer</button>
+            <button type="submit" name="userChoice" value="withdrawalTransaction" class="transaction-button">Withdrawal</button>
+            <button type="submit" name="userChoice" value="deposits" class="transaction-button">Deposits</button>
+            <button type="submit" name="userChoice" value="paymentServices" class="transaction-button">Payment Services</button>
+            <button type="submit" name="userChoice" value="otherOptions" class="transaction-button">Other Options</button>
+        </form>
+    </div>
+</div>
+
+

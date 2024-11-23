@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "ATM Page";
+}
+
+<form id="screenForm" method="post" asp-page-handler="Login">
+    <div>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" placeholder="Input your username" required>
+    </div>
+    <div>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" placeholder="Input your password" required>
+    </div>
+</form>
+
+
+
