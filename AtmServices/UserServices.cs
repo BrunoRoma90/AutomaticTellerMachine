@@ -163,5 +163,24 @@ namespace AtmServices
 
         }
 
+
+        public Boolean UpdateUserPassword(int id,string password)
+        {
+            bool updated = false;
+
+            try
+            {
+                _repository.UpdateUserPassword(id,password);
+                updated = true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+            }
+            return updated;
+        }
+
     }
+
+    
 }

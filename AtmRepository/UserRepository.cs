@@ -162,5 +162,31 @@ namespace AtmRepository
 
 
         }
+
+
+        public void UpdateUserPassword(int id, string password)
+        {
+            using (SqlConnection con = new SqlConnection(_connectionString))
+            {
+                using (SqlCommand cmd = new SqlCommand())
+                {
+                    string query = "UPDATE Users SET password= @password WHERE id = @id " + Environment.NewLine;
+
+                    cmd.CommandText = query;
+                    cmd.Connection = con;
+
+                    #region Insert query values
+                    cmd.Parameters.Add("@id", SqlDbType.Int).Value = id;
+                    cmd.Parameters.Add("@password", SqlDbType.NVarChar).Value = password;
+                    #endregion
+
+                    if (con.State != ConnectionState.Open)
+                        con.Open();
+                    cmd.ExecuteNonQuery();
+
+
+                }
+            }
+        }
     }
 }

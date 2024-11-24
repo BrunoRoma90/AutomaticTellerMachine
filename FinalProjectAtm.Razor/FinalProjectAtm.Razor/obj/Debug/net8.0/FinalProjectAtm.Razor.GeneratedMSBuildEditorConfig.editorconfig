@@ -34,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXE1lbnVPdGhlck9wdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/OtherOptions/MyAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXE15QWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/OtherOptions/MyBalance.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXE15QmFsYW5jZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -56,6 +60,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/OtherOptions/MyWithdrawls.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXE15V2l0aGRyYXdscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/OtherOptions/UpdatePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXFVwZGF0ZVBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/Privacy.cshtml]

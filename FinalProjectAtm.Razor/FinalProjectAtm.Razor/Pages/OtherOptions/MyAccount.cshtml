@@ -1,0 +1,30 @@
+﻿@page
+@using AtmModels;
+@model FinalProjectAtm.Razor.Pages.OtherOptions.MyAccountModel
+@{
+    ViewData["Title"] = "My Account";
+}
+
+<div>
+    <h2>My Account</h2>
+    <table>
+        <tr>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Username</th>
+            <th>Number Account</th>
+        </tr>
+
+        <tr>
+            <td>@Model.User.FirstName</td>
+            <td>@Model.User.LastName</td>
+            <td>@Model.User.UserName</td>
+            <td>@Model.Account.Number</td>
+        </tr>
+    </table>
+</div>
+<div>
+    <form method="post">
+        <button type="submit" name="userChoice" value="updatePassword" class="transaction-button">Change Password</button>
+    </form>
+</div>

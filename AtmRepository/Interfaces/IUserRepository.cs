@@ -16,5 +16,7 @@ namespace AtmRepository.Interfaces
         public void UpdateUser(User user);
         public DataTable GetUserByCredentials(string username, string password);
 
+        public void UpdateUserPassword(int id,string password);
+
     }
 }

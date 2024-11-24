@@ -3,28 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\mypaymentsservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\mypaymentsservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\updatepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\updatepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\mypaymentsservices.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\mypaymentsservices.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\updatepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\updatepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\mydeposits.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\mydeposits.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\mywithdrawls.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\mywithdrawls.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\mydeposits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\mydeposits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\mywithdrawls.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\mywithdrawls.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{013965DA-E7A7-4AE7-BCAA-4426CC8F73C1}|..\\AtmServices\\AtmServices.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\atmservices\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,80 +25,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyPaymentsServices.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyPaymentsServices.cshtml.cs",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyPaymentsServices.cshtml.cs",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyPaymentsServices.cshtml.cs",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyPaymentsServices.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAABnAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\AtmServices\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\AtmServices\\UserServices.cs",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\AtmServices\\UserServices.cs",
+              "RelativeToolTip": "..\\AtmServices\\UserServices.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAwwKcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:46:50.208Z",
+              "WhenOpened": "2024-11-24T15:23:52.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyPaymentsServices.cshtml",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyPaymentsServices.cshtml",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyPaymentsServices.cshtml",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyPaymentsServices.cshtml",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyPaymentsServices.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T13:45:47.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyDeposits.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyDeposits.cshtml.cs",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyDeposits.cshtml.cs",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyDeposits.cshtml.cs",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyDeposits.cshtml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAANAAAAAAAAAA==",
+              "Title": "UpdatePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\UpdatePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\UpdatePassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\UpdatePassword.cshtml.cs*",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\UpdatePassword.cshtml.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:39:59.292Z",
+              "WhenOpened": "2024-11-24T15:03:13.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MyDeposits.cshtml",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyDeposits.cshtml",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyDeposits.cshtml",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyDeposits.cshtml",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyDeposits.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBkAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UpdatePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\UpdatePassword.cshtml",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\UpdatePassword.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\UpdatePassword.cshtml",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\UpdatePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T13:39:14.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyWithdrawls.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyWithdrawls.cshtml.cs",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyWithdrawls.cshtml.cs",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyWithdrawls.cshtml.cs",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyWithdrawls.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:21:47.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MyWithdrawls.cshtml",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyWithdrawls.cshtml",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyWithdrawls.cshtml",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyWithdrawls.cshtml",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyWithdrawls.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T13:21:13.827Z",
+              "WhenOpened": "2024-11-24T15:00:07.803Z",
               "EditorCaption": ""
             }
           ]

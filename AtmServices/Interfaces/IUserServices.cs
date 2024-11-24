@@ -14,5 +14,7 @@ namespace AtmServices.Interfaces
         public Boolean InsertNewUser(User newUser);
         public Boolean UpdateUser(User updatedUser);
         public User Login(string username, string password);
+
+        public Boolean UpdateUserPassword(int id, string password);
     }
 }
