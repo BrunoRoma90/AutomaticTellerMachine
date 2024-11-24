@@ -28,7 +28,7 @@ namespace FinalProjectAtm.Razor.Pages.Transactions
         {
             int userId = Convert.ToInt32(_memoryCache.Get("Id"));
             User = _userServices.GetUserById(userId);
-            Account = _bankAccountServices.GetBankAccountById(userId);
+            Account = _bankAccountServices.GetBankAccountByUserId(userId);
 
             if (Account == null)
             {

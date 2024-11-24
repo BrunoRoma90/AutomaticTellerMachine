@@ -1,0 +1,26 @@
+﻿@page
+@using AtmModels
+@model FinalProjectAtm.Razor.Pages.OtherOptions.MyTransactionsModel
+@{
+    ViewData["Title"] = "My Transactions";
+}
+
+<div>
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>Type</th>
+        </tr>
+        @if (Model.Transactions != null)
+        {
+            foreach (Transaction transaction in Model.Transactions)
+            {
+                <tr>
+                    <td>@transaction.Date.ToString("g")</td>
+                    <td>@transaction.Type</td>
+                </tr>
+            }
+
+        }
+    </table>
+</div>

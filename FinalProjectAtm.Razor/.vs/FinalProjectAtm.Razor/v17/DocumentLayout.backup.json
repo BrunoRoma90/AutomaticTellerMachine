@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\menuotheroptions.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\menuotheroptions.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\mytransactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\mytransactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\menuotheroptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\menuotheroptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\mytransactions.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\mytransactions.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\mybalance.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\mybalance.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\otheroptions\\mybalance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\otheroptions\\mybalance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuOtherOptions.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MenuOtherOptions.cshtml.cs",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MenuOtherOptions.cshtml.cs",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MenuOtherOptions.cshtml.cs",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MenuOtherOptions.cshtml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA8wDgAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MyTransactions.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyTransactions.cshtml.cs",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyTransactions.cshtml.cs",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyTransactions.cshtml.cs",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyTransactions.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T11:42:31.271Z",
+              "WhenOpened": "2024-11-24T12:47:30.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuOtherOptions.cshtml",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MenuOtherOptions.cshtml",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MenuOtherOptions.cshtml",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MenuOtherOptions.cshtml",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MenuOtherOptions.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MyTransactions.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyTransactions.cshtml",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyTransactions.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyTransactions.cshtml",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyTransactions.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T11:42:12.337Z",
+              "WhenOpened": "2024-11-24T12:47:01.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyBalance.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyBalance.cshtml.cs",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyBalance.cshtml.cs",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyBalance.cshtml.cs",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyBalance.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:23:59.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyBalance.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyBalance.cshtml",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyBalance.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyBalance.cshtml",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\OtherOptions\\MyBalance.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:03:41.812Z",
               "EditorCaption": ""
             }
           ]
