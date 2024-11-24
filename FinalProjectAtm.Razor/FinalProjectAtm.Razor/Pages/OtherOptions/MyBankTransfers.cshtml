@@ -1,0 +1,28 @@
+﻿@page
+@using AtmModels;
+@model FinalProjectAtm.Razor.Pages.OtherOptions.MyBankTransfersModel
+@{
+    ViewData["Title"] = "My Bank Transfers";
+}
+
+<div>
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>Amount</th>
+            <th>Destination Account</th>
+        </tr>
+        @if (Model.BankTransfersTransaction != null)
+        {
+            foreach (BankTransferTransaction bankTransfer in Model.BankTransfersTransaction)
+            {
+                <tr>
+                    <td>@bankTransfer.Date.ToString("g")</td>
+                    <td>@bankTransfer.Amount</td>
+                    <td>@bankTransfer.DestinationAccount.User.FirstName @bankTransfer.DestinationAccount.User.LastName</td>
+                </tr>
+            }
+
+        }
+    </table>
+</div>

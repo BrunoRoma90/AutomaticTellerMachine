@@ -38,8 +38,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXE15QmFsYW5jZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/OtherOptions/MyBankTransfers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXE15QmFua1RyYW5zZmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/OtherOptions/MyDeposits.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXE15RGVwb3NpdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/OtherOptions/MyPaymentsServices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXE15UGF5bWVudHNTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/OtherOptions/MyTransactions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXE15VHJhbnNhY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/OtherOptions/MyWithdrawls.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJPcHRpb25zXE15V2l0aGRyYXdscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/bruno/Dev/FinalProjectAtm/FinalProjectAtm.Razor/FinalProjectAtm.Razor/Pages/Privacy.cshtml]

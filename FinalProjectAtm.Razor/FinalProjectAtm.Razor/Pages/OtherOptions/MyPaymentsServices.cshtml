@@ -1,0 +1,28 @@
+﻿@page
+@using AtmModels;
+@model FinalProjectAtm.Razor.Pages.OtherOptions.MyPaymentsServicesModel
+@{
+    ViewData["Title"] = "My Payment Services";
+}
+<div>
+    <h2>My Payment Services</h2>
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>Amount</th>
+            <th>Name Service</th>
+        </tr>
+        @if (Model.PaymentServices != null)
+        {
+            foreach (PaymentServicesTransaction paymentServicesTransaction in Model.PaymentServices)
+            {
+                <tr>
+                    <td>@paymentServicesTransaction.Date.ToString("g")</td>
+                    <td>@paymentServicesTransaction.Amount</td>
+                    <td>@paymentServicesTransaction.NameService</td>
+                </tr>
+            }
+
+        }
+    </table>
+</div>

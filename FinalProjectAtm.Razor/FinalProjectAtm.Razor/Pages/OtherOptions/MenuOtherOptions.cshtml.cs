@@ -44,7 +44,7 @@ namespace FinalProjectAtm.Razor.Pages.OtherOptions
             }
             else if (userChoice == "withdrawals")
             {
-                return RedirectToPage("/OtherOptions/MyWithdrawals");
+                return RedirectToPage("/OtherOptions/MyWithdrawls");
             }
             else if (userChoice == "deposits")
             {
@@ -52,7 +52,7 @@ namespace FinalProjectAtm.Razor.Pages.OtherOptions
             }
             else if (userChoice == "paymentServices")
             {
-                return RedirectToPage("/OtherOptions/MyPaymentServices");
+                return RedirectToPage("/OtherOptions/MyPaymentsServices");
             }
             else
             {
