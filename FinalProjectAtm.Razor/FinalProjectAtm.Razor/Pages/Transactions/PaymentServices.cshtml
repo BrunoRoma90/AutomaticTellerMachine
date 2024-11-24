@@ -1,0 +1,30 @@
+﻿@page
+@model FinalProjectAtm.Razor.Pages.Transactions.PaymentServicesModel
+@{
+    ViewData["Title"] = "Payment Services";
+}
+<div>
+    <h2>Payment Services</h2>
+
+    <form id="screenForm" method="post">
+        <div>
+            <label for="amount">Amount:</label>
+            <input type="number" id="amount" name="amount" step="0.01" required />
+        </div>
+        <div>
+            <label for="nameService">Name Service:</label>
+            <input type="text" id="nameService" name="nameService" required />
+        </div>       
+    </form>
+
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <p style="color: red;">@TempData["ErrorMessage"]</p>
+    }
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <p style="color: green;">@TempData["SuccessMessage"]</p>
+    }
+
+</div>

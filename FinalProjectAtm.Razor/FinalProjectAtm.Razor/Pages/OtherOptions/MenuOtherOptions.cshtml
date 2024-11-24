@@ -1,0 +1,19 @@
+﻿@page
+@model FinalProjectAtm.Razor.Pages.OtherOptions.MenuOtherOptionsModel
+@{
+    ViewData["Title"] = "Other Options";
+}
+<div>
+    <h2>Choose an option</h2>
+    <div class="menuOptions">
+        <form method="post">
+            <button type="submit" name="userChoice" value="balance" class="transaction-button">My Balance</button>
+            <button type="submit" name="userChoice" value="transations" class="transaction-button">My Transactions</button>
+            <button type="submit" name="userChoice" value="informations" class="transaction-button">My Account</button>
+            <button type="submit" name="userChoice" value="bankTransfer" class="transaction-button">My Bank Transfers</button>
+            <button type="submit" name="userChoice" value="withdrawals" class="transaction-button">My Withdrawals</button>
+            <button type="submit" name="userChoice" value="deposits" class="transaction-button">My Deposits</button>
+            <button type="submit" name="userChoice" value="paymentServices" class="transaction-button">My Payment Services</button>
+        </form>
+    </div>
+</div>

@@ -44,7 +44,7 @@ namespace FinalProjectAtm.Razor.Pages
             }
             else if (userChoice == "otherOptions")
             {
-                return RedirectToPage("/Students/LoginStudent");
+                return RedirectToPage("/OtherOptions/MenuOtherOptions");
             }
             else
             {
