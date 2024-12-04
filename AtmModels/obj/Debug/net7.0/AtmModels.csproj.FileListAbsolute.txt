@@ -21,3 +21,4 @@ C:\Users\bruno\Dev\FinalProjectAtm\AtmModels\obj\Debug\net7.0\AtmModels.dll
 C:\Users\bruno\Dev\FinalProjectAtm\AtmModels\obj\Debug\net7.0\refint\AtmModels.dll
 C:\Users\bruno\Dev\FinalProjectAtm\AtmModels\obj\Debug\net7.0\AtmModels.pdb
 C:\Users\bruno\Dev\FinalProjectAtm\AtmModels\obj\Debug\net7.0\ref\AtmModels.dll
+C:\Users\bruno\Dev\FinalProjectAtm\AtmModels\obj\Debug\net7.0\AtmModels.sourcelink.json

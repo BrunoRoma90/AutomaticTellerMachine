@@ -36,7 +36,7 @@ namespace FinalProjectAtm.Razor.Pages.Transactions
             }
         }
 
-        public IActionResult OnPost(int amount, string nameService)
+        public IActionResult OnPost(double amount, string nameService)
         {
             if (amount <= 0)
             {

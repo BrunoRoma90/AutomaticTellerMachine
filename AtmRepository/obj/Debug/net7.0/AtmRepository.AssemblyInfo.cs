@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtmRepository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd1ce32d67d4306883f7a5a7e489d77afde934b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee0a1e412a831f01e1f031cf1753b2e2b81873f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtmRepository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtmRepository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

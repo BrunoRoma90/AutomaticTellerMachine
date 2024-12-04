@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtmModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee0a1e412a831f01e1f031cf1753b2e2b81873f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtmModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtmModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

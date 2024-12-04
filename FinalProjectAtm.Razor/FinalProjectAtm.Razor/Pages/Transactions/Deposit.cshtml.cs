@@ -37,7 +37,7 @@ namespace FinalProjectAtm.Razor.Pages.Transactions
         }
 
 
-        public IActionResult OnPost(int amount)
+        public IActionResult OnPost(double amount)
         {
             if (amount <= 0)
             {
