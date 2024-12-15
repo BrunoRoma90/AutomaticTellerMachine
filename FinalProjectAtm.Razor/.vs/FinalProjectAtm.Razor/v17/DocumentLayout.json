@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\wwwroot\\css\\atmstyle2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\wwwroot\\css\\atmstyle2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\paymentservices.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\paymentservices.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\withdrawal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\withdrawal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\withdrawal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\withdrawal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\deposit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\deposit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\paymentservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\paymentservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\pages\\transactions\\banktransfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\pages\\transactions\\banktransfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|c:\\users\\bruno\\dev\\finalprojectatm\\finalprojectatm.razor\\finalprojectatm.razor\\wwwroot\\js\\atmbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{57836AAA-4FBA-4A68-9EEB-52252FC71727}|FinalProjectAtm.Razor\\FinalProjectAtm.Razor.csproj|solutionrelative:finalprojectatm.razor\\wwwroot\\js\\atmbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Withdrawal.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml.cs",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml.cs",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml.cs",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T19:45:28.546Z",
+              "DocumentIndex": 0,
+              "Title": "AtmStyle2.css",
+              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\wwwroot\\css\\AtmStyle2.css",
+              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\wwwroot\\css\\AtmStyle2.css",
+              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\wwwroot\\css\\AtmStyle2.css",
+              "RelativeToolTip": "FinalProjectAtm.Razor\\wwwroot\\css\\AtmStyle2.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-05T19:20:13.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PaymentServices.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\PaymentServices.cshtml.cs",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\PaymentServices.cshtml.cs",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\PaymentServices.cshtml.cs",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\PaymentServices.cshtml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T19:45:18.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Deposit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Deposit.cshtml.cs",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\Deposit.cshtml.cs",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Deposit.cshtml.cs",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\Deposit.cshtml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAawCkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T19:32:06.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAYwFQAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T19:21:33.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T19:21:33.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Withdrawal.cshtml",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\Withdrawal.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T19:08:34.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PaymentServices.cshtml",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\PaymentServices.cshtml",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\PaymentServices.cshtml",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\PaymentServices.cshtml",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\PaymentServices.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T19:08:30.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BankTransfer.cshtml",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\BankTransfer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T19:08:26.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Deposit.cshtml",
               "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Deposit.cshtml",
               "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\Pages\\Transactions\\Deposit.cshtml",
               "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\Pages\\Transactions\\Deposit.cshtml",
               "RelativeToolTip": "FinalProjectAtm.Razor\\Pages\\Transactions\\Deposit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T19:08:18.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AtmBox.js",
-              "DocumentMoniker": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\wwwroot\\js\\AtmBox.js",
-              "RelativeDocumentMoniker": "FinalProjectAtm.Razor\\wwwroot\\js\\AtmBox.js",
-              "ToolTip": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\wwwroot\\js\\AtmBox.js",
-              "RelativeToolTip": "FinalProjectAtm.Razor\\wwwroot\\js\\AtmBox.js",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAwEIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-27T19:06:32.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T19:08:18.224Z"
             }
           ]
         }

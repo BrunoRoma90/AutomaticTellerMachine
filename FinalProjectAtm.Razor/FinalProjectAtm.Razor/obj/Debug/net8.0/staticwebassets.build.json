@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UGQdwtQ9d6lp9XlSHEsKxdrKrxgzFlfCS7wEZY3/nD8=",
+  "Hash": "D5n7nZBJWmnQB5KH4SFme14B4b/wGD53oiLqk6/S4Ww=",
   "Source": "FinalProjectAtm.Razor",
   "BasePath": "_content/FinalProjectAtm.Razor",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\AtmStyle.css"
+    },
+    {
+      "Identity": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\wwwroot\\css\\AtmStyle2.css",
+      "SourceId": "FinalProjectAtm.Razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\wwwroot\\",
+      "BasePath": "_content/FinalProjectAtm.Razor",
+      "RelativePath": "css/AtmStyle2.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AtmStyle2.css"
     },
     {
       "Identity": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\wwwroot\\css\\site.css",

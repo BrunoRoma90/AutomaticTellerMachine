@@ -1,0 +1,96 @@
+﻿body {
+    background-image: linear-gradient(45deg, black, rgb(10, 8, 81));
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.fundo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+/* Caixa ATM */
+.atmBox {
+    background-color: #1e1e2f; /* Fundo escuro */
+    border: 3px solid #00ff7f; /* Borda verde brilhante */
+    border-radius: 20px;
+    width: 650px; /* Largura ajustada */
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 10px 30px rgba(0, 255, 127, 0.6); /* Sombra */
+}
+
+    .atmBox h1 {
+        color: #00ff7f;
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+
+/* Tela */
+#screen {
+    background-color: #000; /* Fundo preto */
+    color: #00ff7f; /* Texto verde brilhante */
+    border: 2px solid #00ff7f; /* Borda verde */
+    border-radius: 10px;
+    height: 150px; /* Altura ajustada */
+    margin-bottom: 15px;
+    padding: 10px;
+    font-family: 'Courier New', monospace;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-y: auto; /* Habilita rolagem vertical */
+    max-height: 150px;
+    flex-direction: column;
+}
+
+/* Tabela dos botões */
+table {
+    width: 100%; /* Faz a tabela ocupar o espaço total disponível */
+    border-spacing: 5px; /* Espaçamento entre os botões */
+}
+
+/* Botões */
+.buttons {
+    background-color: #1e1e2f; /* Fundo escuro */
+    color: #00ff7f; /* Texto verde brilhante */
+    border: 2px solid #00ff7f; /* Borda verde */
+    border-radius: 8px; /* Arredondado */
+    padding: 10px; /* Menor padding para botões menores */
+    font-size: 14px; /* Texto menor */
+    width: 100%; /* Faz o botão ocupar toda a largura da célula */
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 255, 127, 0.4);
+    transition: all 0.3s ease-in-out;
+    text-transform: uppercase;
+}
+
+    /* Botões no hover */
+    .buttons:hover {
+        background-color: #00ff7f;
+        color: #000;
+        box-shadow: 0px 0px 10px rgba(0, 255, 127, 0.8);
+    }
+
+    /* Botões maiores */
+    .buttons[style*="height: 100%;"] {
+        font-size: 16px;
+        padding: 15px 10px;
+    }
+
+    .buttons.wide {
+        grid-column: span 2;
+        font-size: 16px;
+    }
+
+
+
+

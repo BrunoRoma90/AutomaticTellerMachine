@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\AtmStyle.css"
     },
     {
+      "Id": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\wwwroot\\css\\AtmStyle2.css",
+      "PackagePath": "staticwebassets\\css\\AtmStyle2.css"
+    },
+    {
       "Id": "C:\\Users\\bruno\\Dev\\FinalProjectAtm\\FinalProjectAtm.Razor\\FinalProjectAtm.Razor\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

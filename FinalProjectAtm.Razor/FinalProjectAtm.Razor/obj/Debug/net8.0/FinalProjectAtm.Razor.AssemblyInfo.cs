@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalProjectAtm.Razor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee0a1e412a831f01e1f031cf1753b2e2b81873f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a490cad3651a423e397e11c37b1e6213220f5e9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalProjectAtm.Razor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalProjectAtm.Razor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
